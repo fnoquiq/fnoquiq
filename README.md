@@ -24,6 +24,8 @@
 [instagram]: https://www.instagram.com/gabrielmesquita01
 [gitlab]: https://gitlab.com/fnoquiq
 
+---
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fnoquiq&show_icons=true" alt="fnoquiq" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnoquiq&layout=compact&hide=html" alt="fnoquiq" /></p>
