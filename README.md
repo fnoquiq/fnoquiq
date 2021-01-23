@@ -8,9 +8,9 @@
 ### Talking about Personal Stuffs:
 
 - 🎓 I'm a Computer Scientist;
-- 🚀 I’m currently learning everything; 🤣
-- 🔭 SpaceX FanBoi;
-- ⚡ Fun fact: I love games;
+- 🚀 I’m currently learning everything;
+- 🎮 Fun fact: I love SpaceX;
+- 🔭 Gamer;
 
 ### Connect with me:
 
@@ -26,6 +26,12 @@
 
 ---
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fnoquiq&show_icons=true" alt="fnoquiq" /></p>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=fnoquiq&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnoquiq&layout=compact&hide=html" alt="fnoquiq" /></p>
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnoquiq&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
