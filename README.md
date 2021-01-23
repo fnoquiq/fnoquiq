@@ -9,8 +9,8 @@
 
 - 🎓 I'm a Computer Scientist;
 - 🚀 I’m currently learning everything;
-- 🎮 Fun fact: I love SpaceX;
-- 🔭 Gamer;
+- 🔭 Fun fact: I love SpaceX;
+- 🎮 Gamer;
 
 ### Connect with me:
 
