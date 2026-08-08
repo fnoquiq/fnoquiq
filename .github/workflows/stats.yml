@@ -1,0 +1,32 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gerar SVGs de estatísticas
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/gen_stats.py
+
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets/stats.svg .github/assets/languages.svg
+          git diff --staged --quiet || git commit -m "chore: atualiza cards de estatísticas [skip ci]"
+          git push

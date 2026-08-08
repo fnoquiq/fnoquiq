@@ -1,0 +1,23 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#0d1117" stroke="#00d9ff" stroke-opacity="0.55"/>
+  <text x="25" y="42" fill="#00d9ff" font-size="19" font-weight="700">⚡ Estatísticas de Gabriel Mesquita</text>
+  <line x1="25" y1="55" x2="470" y2="55" stroke="#21262d"/>
+  <text x="28" y="82" font-size="15">⭐</text>
+<text x="54" y="82" fill="#c9d1d9" font-size="14">Estrelas conquistadas</text>
+<text x="233" y="82" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">13</text>
+<text x="28" y="118" font-size="15">📝</text>
+<text x="54" y="118" fill="#c9d1d9" font-size="14">Commits</text>
+<text x="233" y="118" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">3.015</text>
+<text x="28" y="154" font-size="15">👥</text>
+<text x="54" y="154" fill="#c9d1d9" font-size="14">Seguidores</text>
+<text x="233" y="154" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">42</text>
+  <text x="262" y="82" font-size="15">🔀</text>
+<text x="288" y="82" fill="#c9d1d9" font-size="14">Pull Requests</text>
+<text x="467" y="82" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">269</text>
+<text x="262" y="118" font-size="15">🐛</text>
+<text x="288" y="118" fill="#c9d1d9" font-size="14">Issues</text>
+<text x="467" y="118" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">598</text>
+<text x="262" y="154" font-size="15">📦</text>
+<text x="288" y="154" fill="#c9d1d9" font-size="14">Repositórios</text>
+<text x="467" y="154" fill="#ffffff" font-size="15" font-weight="700" text-anchor="end">54</text>
+</svg>

@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03a87c,50:00d9ff,100:8a2be2&height=210&section=header&text=Gabriel%20Mesquita&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Cientista%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Back-end%20%E2%80%A2%20SpaceX%20enthusiast&descSize=17&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03a87c,50:00d9ff,100:8a2be2&height=210&section=header&text=Gabriel%20Mesquita&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=36&desc=Cientista%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Back-end%20%E2%80%A2%20Bitcoin%20%E2%82%BF&descSize=17&descAlignY=56"/>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 - 🎓 **Cientista da Computação**, de Divinópolis–MG 🇧🇷
 - 💻 Foco em **back-end** com **Node.js + TypeScript** — *Clean Architecture*, *TDD* e *SOLID* como padrão.
 - ⚛️ Também navego pelo front com **React**, **Next.js** e **React Native**.
-- 🚀 Apaixonado por **SpaceX** e exploração espacial.
+- 🟠 Apaixonado por **Bitcoin** e tecnologia blockchain.
 - 🎮 Gamer nas horas vagas.
 - 🌱 Sempre aprendendo algo novo — *"Talk is cheap. Show me the code."*
 - 💬 Pode me perguntar sobre qualquer coisa, será um prazer ajudar!
@@ -76,16 +76,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnoquiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=03a87c&bg_color=0d1117" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnoquiq&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&bg_color=0d1117&langs_count=8" alt="top langs" />
+<img width="47%" src="https://raw.githubusercontent.com/fnoquiq/fnoquiq/master/.github/assets/stats.svg" alt="estatísticas" />
+<img width="47%" src="https://raw.githubusercontent.com/fnoquiq/fnoquiq/master/.github/assets/languages.svg" alt="linguagens mais usadas" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnoquiq&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=03a87c&currStreakLabel=00d9ff" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=fnoquiq&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -95,9 +91,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake.svg?v=2" />
+    <img alt="cobrinha das contribuições" src="https://raw.githubusercontent.com/fnoquiq/fnoquiq/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </div>
 
