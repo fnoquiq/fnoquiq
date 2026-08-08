@@ -111,7 +111,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+### 💡 <em>1% melhor a cada commit.</em>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00d9ff,100:03a87c&height=110&section=footer"/>
